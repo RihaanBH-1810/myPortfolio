@@ -6,5 +6,5 @@ image: "/images/lorem-ipsum/quick-fox.png"
 showTableOfContents: false
 ---
 
-
+# My approach to task-02
 
