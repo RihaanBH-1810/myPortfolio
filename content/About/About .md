@@ -1,6 +1,6 @@
 ---
 title: "About Me :"
-date: 2023-08-28
+date: 2023-08-29
 description: "A brief introduction about me ! :"
 type: post
 weight: 25
